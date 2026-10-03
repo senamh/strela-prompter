@@ -17,5 +17,5 @@ label{margin:12px 0 6px}.pair{gap:12px;flex-shrink:0}.check{margin:12px 0}.hint{
 #words,#words .active{color:#fff}
 #words .active{background:transparent;border-radius:0}
 #words .past{color:#666}
-#words .active{color:#fff;background:rgba(255,80,86,.08);border-radius:5px}
+#words .active{color:#fff;background:rgba(255,80,86,.16);border-radius:5px}
 #words .past{color:#555}
